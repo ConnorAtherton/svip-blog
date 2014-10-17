@@ -2,8 +2,14 @@
   "name":"hexo-site",
   "version":"2.8.3",
   "scripts": {
-    "postinstall": "hexo generate",
-    "start": "node app"
+    "postinstall": "hexo generate"
   },
   "private":true,
-  "dependencies":{"hexo-generator-feed":"^0.2.1","hexo-renderer-ejs":"*","hexo-renderer-marked":"*","hexo-renderer-stylus":"*","connect":"2.x"}}
+  "dependencies":{
+    "hexo-generator-feed":"^0.2.1",
+    "hexo-renderer-ejs":"*",
+    "hexo-renderer-marked":"*",
+    "hexo-renderer-stylus":"*",
+    "connect":"2.x"
+  }
+}
