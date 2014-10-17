@@ -2,6 +2,7 @@ title: SVIP 2014 Postmortem
 date: 2014-10-15 20:18:24
 tags:
 author: Marat Subkhankulov
+layout: post
 ---
 
 Well it’s been a whole year. A whole year and I can hardly believe it. Still time waits for no man and myself and the rest of the SVIP Class of 2014 are soon to move on to greener pastures, exciting new projects and adventures.
