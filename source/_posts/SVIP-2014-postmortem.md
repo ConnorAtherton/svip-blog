@@ -1,6 +1,6 @@
 title: SVIP 2014 Postmortem
 date: 2014-10-15 20:18:24
-tags:
+tags: Blah, scsvw
 author: Marat Subkhankulov
 layout: post
 ---
