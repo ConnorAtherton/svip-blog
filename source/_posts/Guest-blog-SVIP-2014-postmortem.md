@@ -1,6 +1,6 @@
 title: SVIP 2014 Postmortem
 date: 2014-10-15 20:18:24
-tags: Blah, scsvw
+tags: Blah, SVIP, End of an era
 author: Marat Subkhankulov
 layout: post
 ---
@@ -8,6 +8,8 @@ layout: post
 Well it’s been a whole year. A whole year and I can hardly believe it. Still time waits for no man and myself and the rest of the SVIP Class of 2014 are soon to move on to greener pastures, exciting new projects and adventures.
 
 <!-- more -->
+
+![Alt text baby][img/cartographer.png]
 
 I asked a few of my fellow SVIPers to sum up their time with the SVIP. Barnaby reflects – “I feel this year has given me an informed insight and opinion on this profession, the sector and Silicon Valley. It has put a lot into perspective for me, as well as obviously learning a great deal. The biggest thing I think though is that it has helped me start to form an idea of what I want to be doing in the future.” Chris and Nick whole-heartedly agree, saying more people should apply. And I think it’s clear from any one of our faces that we’re all taking away something money can’t buy from this experience.
 
