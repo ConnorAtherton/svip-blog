@@ -1,6 +1,6 @@
 title: SVIP 2014 Postmortem
 date: 2014-10-15 20:18:24
-tags: Blah, SVIP, End of an era
+tags: postmortem, SVIP, end of an era, 2013, 2014
 author: Marat Subkhankulov
 layout: post
 ---

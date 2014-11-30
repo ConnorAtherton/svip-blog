@@ -19,8 +19,10 @@ localhost:4343
 ```
 
 ### Sorting out the theme
-- cd themes
-- git clone git@github.com:ConnorAtherton/svip-light-theme.git
-- mv svip-light-theme svip-light/ (it needs to be svip-light in order to be recognised)
+```
+cd themes
+git clone git@github.com:ConnorAtherton/svip-light-theme.git
+mv svip-light-theme svip-light/ (it needs to be svip-light in order to be recognised)
+```
 
 Don't worry about 404's. They get handled properly when it is deployed.

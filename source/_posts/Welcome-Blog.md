@@ -1,6 +1,6 @@
 title: Welcome Blog
 date: 2014-11-29 13:07:07
-tags:
+tags: welcome, blog, svip, programme, entrepreneur
 author: Michael Hughes, CEO Loopup/Founder Silicon Valley Internship Programme
 layout: post
 ---
