@@ -1,4 +1,32 @@
 title: Welcome Blog
 date: 2014-11-29 13:07:07
 tags:
+author: Michael Hughes, CEO Loopup/Founder Silicon Valley Internship Programme
+layout: post
 ---
+
+> “Propose to an Englishman any principle, or any instrument, however admirable, and you will observe that the whole effort of the English mind is directed to find a difficulty, a defect, or an impossibility in it. If you speak to him of a machine for peeling a potato, he will pronounce it impossible: if you peel a potato with it before his eyes, he will declare it useless, because it will not slice a pineapple. Impart the same principle or show the same machine to an American or to one of our Colonists, and you will observe that the whole effort of his mind is to find some new application of the principle, some new use for the instrument.” – Charles Babbage
+
+<!-- more -->
+
+As I sat down to write this post, I felt a warm glow of pride knowing that the computer, the ARM architecture on my machine's chipset and the World Wide Web – over which I'm now sharing this stream of consciousness – are all British inventions.  Then, reality snapped me out of my patriotic reverie as I noticed the 'HP' logo on my laptop, running Microsoft's OS on an Intel chipset, powering a Mozilla browser to access a Google Document.
+
+Underpinned by an excellent university network, Britain continues to be one of the great innovating countries of the world.  Yet, for all the innovations originating from Britain's Boffins, the ability to commercialize these innovations and build new business models remains embarrassingly elusive.
+
+I have lived in San Francisco since coming to the US 17 years ago to attend business school.  About 10 years ago, I started a company [(www.LoopUp.com)](http://www.loopup.com) with a friend of mine, Steve 'Mr Buckethead' Flavell, whom I met at Stanford.  Unconventionally, we decide to start our company simultaneously in London and San Francisco and we have since grown to a team of 85 people spread among offices in London, San Francisco, Boston and Hong Kong.
+
+Every few years I join with fellow Brit entrepreneurs in the Bay Area to take part in meetings set up by the UK government.  These well-intentioned discussions aim to understand 'Why Silicon Valley Works' and to tease out some magic formula that can be replicated back in Britain to reinvigorate the tech sector.  Studying a unique 'cluster' such as the one that exists in Silicon Valley does indeed reveal a fascinating interplay between companies, financiers, Universities, human capital, local demand conditions and the government.  However, no matter how intriguing it may be to analyse this interplay of elements, the output is essentially descriptive.  It's helpful in understanding how Silicon Valley works, but it yields little information telling us how to actually go and build a similar cluster.
+
+Something that always strikes me when I speak with entrepreneurs who have gravitated towards Silicon Valley is how important 'just being here' seems to be to their aspirations.  Digging a little deeper, you find that the underlying feeling of the Valley is that anything is possible, and if others can succeed, why can't I?  The heady mix of effort, luck and hope (along with a pinch of inspiration) is the attitudinal magic that powers the interplay between the actors and provides the engine of entrepreneurship.  To make a somewhat contentious generalisation, the natural British response to the new is to analyse and criticize.  This feeds perfectly into the sense of humour, but curtails the wide-eyed enthusiasm that gets businesses started.  The dirty secret of entrepreneurship is that it is a portfolio game: you need lots of people trying lots of different things and one of them, whether by luck or judgement, will succeed.  If success has a healthy mix of luck to go with the judgement, then an enthusiastic community (which sees failure as good experience for the next attempt) will always outperform a community where analytical criticism rules and fewer, though better-conceived, attempts are made.  Natural selection is a powerful force in entrepreneurship!
+
+Given this world view, the question remains, 'What can be done to help the UK's tech sector?'  The answer is easy: try some things and see what works.  So, let's try something!
+
+Entrepreneurs in Silicon Valley have found that attitude is one of the biggest benefits of being here and this attitude makes them realize that all those successful entrepreneurs are not so different from you and me.  They also understand that the biggest and most important thing about starting a company is simply starting, even if you don't have the perfect idea (and it will change anyway once you begin).  How do we instill this attitude into the brightest of the next generation of British talent?
+
+Enter the Silicon Valley Internship Programme.  We take newly minted software engineering grads from the UK and pair them up with hot start-ups for a one year 'internship'.  What better way to help people understand what's going on here than to bring them over to work in the environment and be part of the early evolution of a tech company?  We have been able to quickly pull together what we need to make it happen with some tremendous help from the SV start-up community, the British Consulate and so many kind people who've gone out of their way to help.
+
+As if to prove my point about this contrast in attitudes, I floated the idea of taking on some UK grads to the start-up community associated with Stanford and had an overwhelmingly positive response with enthusiastic offers of help.  I posted the same thing on a UK Facebook community page and received a two-page response from a Brit explaining why it will never work.
+
+Do you want to prove that guy wrong?  Are you ready to jump in, learn from the best and bring the Silicon Valley attitude to the UK?  Then join us!
+
+> “Twenty years from now, you will be more disappointed by the things that you didn't do than by the ones you did do.  So throw off the bowlines.  Sail away from the safe harbor.  Catch the trade winds in your sails.  Explore.  Dream.  Discover.”  Mark Twain

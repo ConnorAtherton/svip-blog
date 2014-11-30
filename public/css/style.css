@@ -14,7 +14,7 @@ body {
   font-family: "Merriweather", serif;
   font-size: 16px;
   text-shadow: 10 0 1px transparent;
-  border-top: 5px solid #42b983;
+  border-top: 5px solid #008cba;
 }
 @media screen and (max-width: 600px) {
   body {
@@ -27,7 +27,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Open Sans", Helvetica Neue, Helvetica, Arial, sans-serif;
+  font-family: "Source Sans Pro", Helvetica Neue, Helvetica, Arial, sans-serif;
   font-weight: 900;
 }
 h1 a,
@@ -51,7 +51,7 @@ h3 {
 }
 a {
   text-decoration: none;
-  color: #258fb8;
+  color: #008cba;
 }
 a:hover {
   text-decoration: underline;
@@ -59,7 +59,7 @@ a:hover {
 p {
   margin-bottom: 1.75em;
   letter-spacing: 0.01rem;
-  font-size: 1.3em;
+  font-size: 1.2em;
   text-align: left;
   font-weight: 300;
 }
@@ -110,18 +110,18 @@ p {
   margin-left: auto;
   margin-right: auto;
   width: 900px;
-  max-width: 100%;
+  max-width: 95%;
 }
 #header img {
   width: 75px;
 }
 #header a color ##58fb8,
 #header a:hover {
-  color: #258fb8;
+  color: #008cba;
   text-decoration: none;
 }
 #header #main-nav {
-  font-family: "Open Sans", Helvetica Neue, Helvetica, Arial, sans-serif;
+  font-family: "Source Sans Pro", Helvetica Neue, Helvetica, Arial, sans-serif;
   line-height: 2.5em;
   float: right;
 }
@@ -134,9 +134,11 @@ p {
 }
 @media screen and (max-width: 600px) {
   #header #main-nav {
-    float: left;
     margin-left: -30px;
   }
+}
+blockquote {
+  padding: 2em 0;
 }
 article {
   background: #fff;
@@ -165,7 +167,7 @@ article.link .title {
 }
 article.link .title a:after {
   content: '\f08e';
-  color: #999;
+  color: #008cba;
   font: 12px FontAwesome;
   padding-left: 10px;
   vertical-align: super;
@@ -243,7 +245,7 @@ article header .icon {
   position: absolute;
   top: 20px;
   left: 20px;
-  color: #258fb8;
+  color: #008cba;
 }
 @media screen and (max-width: 600px) {
   article header .icon {
@@ -303,8 +305,9 @@ article .entry blockquote {
   border-bottom: 1px solid #dfdfdf;
   font-style: italic;
   font-family: "Merriweather", serif;
-  font-size: 1.2em;
-  padding: 0 30px 15px;
+  font-size: 0.9em;
+  padding: 1em;
+  margin: 1em 0 2em 0;
   text-align: center;
 }
 article .entry blockquote footer {
@@ -359,7 +362,7 @@ article .entry pre code {
 article .entry ul,
 article .entry ol,
 article .entry dl {
-  margin-left: 20px;
+  margin: 2em 4em;
 }
 article .entry ul ul,
 article .entry ol ul,
@@ -370,7 +373,13 @@ article .entry dl ol,
 article .entry ul dl,
 article .entry ol dl,
 article .entry dl dl {
-  margin-top: 0;
+  margin: 2em;
+}
+article .entry ul li,
+article .entry ol li,
+article .entry dl li {
+  padding: 0.3em 0;
+  font-size: 1.1em;
 }
 article .entry h1,
 article .entry h2 {
@@ -397,7 +406,7 @@ article .entry iframe {
 article .entry .caption {
   display: block;
   margin-top: 5px;
-  color: #999;
+  color: #008cba;
   position: relative;
   font-size: 0.9em;
   padding-left: 25px;
@@ -439,7 +448,7 @@ article .entry .pullquote {
 article footer {
   margin-top: 0px;
   padding-top: 0px;
-  color: #999;
+  color: #008cba;
   font-size: 0.9em;
   line-height: 16px;
   position: relative;
@@ -450,10 +459,10 @@ article footer #readmore {
   margin-bottom: 15px;
 }
 article footer a {
-  color: #999;
+  color: #008cba;
 }
 article footer a:hover {
-  color: #258fb8;
+  color: #008cba;
   text-decoration: none;
 }
 article footer a:before {
@@ -505,23 +514,44 @@ article footer .addthis iframe {
 #content {
   margin-left: auto;
   margin-right: auto;
-  width: 100%;
+  width: 95%;
   max-width: 900px;
 }
 #pagination a {
   display: block;
-  padding: 5px 10px;
-  background: #dfdfdf;
-  color: #999;
-  font-family: "Open Sans", Helvetica Neue, Helvetica, Arial, sans-serif;
-  text-shadow: 0 0 1px #fff;
+  color: #008cba;
+  font-family: "Source Sans Pro", Helvetica Neue, Helvetica, Arial, sans-serif;
   margin-bottom: 50px;
+  text-transform: uppercase;
+  font-weight: 700;
+  text-align: center;
+  padding: 1em 1.3em;
+  -webkit-border-radius: 4px;
+  border-radius: 4px;
+  border: 2px solid #008cba;
+  -webkit-transition: -webkit-transform 0.1s ease-out, border 0.1s ease-out, box-shadow 0.15s ease-out, color 0.1s ease-out;
+  -webkit-transition: -webkit-transform 0.1s ease-out, border 0.1s ease-out, box-shadow 0.15s ease-out, color 0.1s ease-out;
+  -moz-transition: -moz-transform 0.1s ease-out, border 0.1s ease-out, box-shadow 0.15s ease-out, color 0.1s ease-out;
+  -o-transition: -o-transform 0.1s ease-out, border 0.1s ease-out, box-shadow 0.15s ease-out, color 0.1s ease-out;
+  -ms-transition: -ms-transform 0.1s ease-out, border 0.1s ease-out, box-shadow 0.15s ease-out, color 0.1s ease-out;
+  transition: transform 0.1s ease-out, border 0.1s ease-out, box-shadow 0.15s ease-out, color 0.1s ease-out;
 }
 #pagination a:hover {
-  background: #258fb8;
   color: #fff;
-  text-decoration: none;
   text-shadow: none;
+  cursor: pointer;
+  text-decoration: none;
+  border: 2px solid #008cba !important;
+  color: #008cba;
+  -webkit-box-shadow: 0 0 4px rgba(0,118,223,0.5);
+  box-shadow: 0 0 4px rgba(0,118,223,0.5);
+  -webkit-transform: scale(1.01562);
+  -ms-transform: scale(1.01562);
+  -webkit-transform: scale(1.01562);
+  -moz-transform: scale(1.01562);
+  -o-transform: scale(1.01562);
+  -ms-transform: scale(1.01562);
+  transform: scale(1.01562);
 }
 #pagination .prev:before {
   content: '\f053';
@@ -534,7 +564,7 @@ article footer .addthis iframe {
   font-family: FontAwesome;
 }
 .archive-title {
-  color: #999;
+  color: #008cba;
   font-weight: normal;
   margin-bottom: 30px;
   text-shadow: 0 0 1px #fff;
@@ -612,7 +642,7 @@ article footer .addthis iframe {
 }
 #sidebar .search input {
   background: #fff;
-  font-family: "Open Sans", Helvetica Neue, Helvetica, Arial, sans-serif;
+  font-family: "Source Sans Pro", Helvetica Neue, Helvetica, Arial, sans-serif;
   font-style: italic;
   font-size: 1em;
   padding: 10px 15px;
@@ -621,14 +651,14 @@ article footer .addthis iframe {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
-  color: #999;
+  color: #008cba;
 }
 #sidebar .search input:focus {
   color: #3a4145;
 }
 #sidebar .tag small {
   margin-left: 15px;
-  color: #999;
+  color: #008cba;
 }
 #sidebar .tag small:before {
   content: '(';
@@ -647,7 +677,7 @@ article footer .addthis iframe {
 #sidebar .twitter small {
   display: block;
   margin-top: 10px;
-  color: #999;
+  color: #008cba;
   line-height: 1;
 }
 #sidebar .tagcloud .entry {
@@ -658,13 +688,14 @@ article footer .addthis iframe {
   display: inline-block;
 }
 #footer {
-  width: 900px;
-  color: #999;
+  width: 95%;
+  max-width: 900px;
+  color: #008cba;
   margin-top: 15px;
   margin-bottom: 50px;
   margin-left: auto;
   margin-right: auto;
-  font: 0.9em/1.6 "Open Sans", Helvetica Neue, Helvetica, Arial, sans-serif;
+  font: 0.9em/1.6 "Source Sans Pro", Helvetica Neue, Helvetica, Arial, sans-serif;
   text-shadow: 0 0 1px #fff;
 }
 #footer nav {
@@ -673,6 +704,9 @@ article footer .addthis iframe {
 }
 #footer nav ul {
   list-style: none;
+}
+#footer nav ul li {
+  padding: 0;
 }
 .entry .gist {
   background: #eee;
@@ -702,17 +736,17 @@ article footer .addthis iframe {
 }
 .entry .gist .gist-file .gist-meta {
   background: none;
-  color: #999;
+  color: #008cba;
   margin-top: 5px;
   padding: 0;
   text-shadow: 0 0 1px #fff;
   font-size: 100%;
 }
 .entry .gist .gist-file .gist-meta a {
-  color: #258fb8;
+  color: #008cba;
 }
 .entry .gist .gist-file .gist-meta a:visited {
-  color: #258fb8;
+  color: #008cba;
 }
 figure.highlight {
   background: #eee;
@@ -728,7 +762,7 @@ figure.highlight {
   font-size: 0.9em;
 }
 figure.highlight figcaption {
-  color: #999;
+  color: #008cba;
   margin-bottom: 5px;
   text-shadow: 0 0 1px #fff;
 }
@@ -746,7 +780,7 @@ figure.highlight table {
   border-spacing: 0;
 }
 figure.highlight .gutter {
-  color: #999;
+  color: #008cba;
   padding-right: 15px;
   border-right: 1px solid #dfdfdf;
   text-align: right;
