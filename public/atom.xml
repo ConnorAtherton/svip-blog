@@ -4,7 +4,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://blog.siliconvalleyinternship.com/"/>
-  <updated>2014-12-06T00:50:46.140Z</updated>
+  <updated>2014-12-05T18:45:11.518Z</updated>
   <id>http://blog.siliconvalleyinternship.com/</id>
   
   <author>
@@ -15,11 +15,11 @@
   <generator uri="http://zespia.tw/hexo/">Hexo</generator>
   
   <entry>
-    <title><![CDATA[SVIPer Blog : Three months in SF... but there's always room for Bristol]]></title>
+    <title><![CDATA[Three months in SF... but there's always room for Bristol]]></title>
     <link href="http://blog.siliconvalleyinternship.com/2014/11/27/Guest-Blog-Three-months-in-SF-but-there-s-always-room-for-Bristol/"/>
     <id>http://blog.siliconvalleyinternship.com/2014/11/27/Guest-Blog-Three-months-in-SF-but-there-s-always-room-for-Bristol/</id>
     <published>2014-11-28T04:46:42.000Z</published>
-    <updated>2014-12-05T23:52:18.000Z</updated>
+    <updated>2014-12-05T18:26:52.000Z</updated>
     <content type="html"><![CDATA[<p>I’ve been here for about three months now – just long enough (I’d say) to claim that the transition has been made from this feeling like a short trip to this feeling like a full move. And with that, the realisation that I most likely won’t return to the UK for just under a year has made me miss it.</p>
 <a id="more"></a>
 
@@ -42,53 +42,11 @@
   </entry>
   
   <entry>
-    <title><![CDATA[SVIPer Blog : Think Digital]]></title>
-    <link href="http://blog.siliconvalleyinternship.com/2014/10/10/Think-Digital/"/>
-    <id>http://blog.siliconvalleyinternship.com/2014/10/10/Think-Digital/</id>
-    <published>2014-10-10T21:45:00.000Z</published>
-    <updated>2014-12-06T00:46:43.000Z</updated>
-    <content type="html"><![CDATA[<p>One of the great things about living in Silicon Valley is that there are so many exciting tech events right on your doopstep. From casual meetups, to events aimed at teaching you everything your start up needs to know and official product launches it’s actually possible to go to a different event every night of the week. We checked in with SVIPer Flavius Popescu to hear about some of the events he’s been to lately.</p>
-<a id="more"></a>
-
-<hr>
-<p>Since arriving here I have been able to visit Stanford University’s campus buildings for a presentation on Deep Learning and its applications, with prominent industry experts working on fascinating projects including <a href="http://www.clarifai.com" target="_blank" rel="external">clarifai</a> and Google Brain. On another occasion I travelled to the Mountain View Googleplex to watch the Google Android experts discuss Material Design and Android L. After numerous examples of good interaction design and proper use of UI elements, the discussion carried on until late with Q&amp;A. These events have been packed and it’s been really interesting to meet people who come from all walks of life. </p>
-<p>I also attended the Internet Of Things Cross-meetup recently, which approached topics like wearables/mobile, VR/sensors, machine learning and biofeedback. The demos here were formidable. In fact I’m still thinking about a couple of them…</p>
-<h3 id="Leap_Motion">Leap Motion</h3>
-<p>What do you get when you put together Oculus and Leap? A fantastic VR experience! “Oculeap” not only puts you into a magical world of wonder, it lets you play with everything in it too.</p>
-<p><a href="https://www.leapmotion.com/product/vr" target="_blank" rel="external"><img src="/img/cubeplay.gif" alt="from https://www.leapmotion.com/product/vr"></a></p>
-<p>The small sensor mounted on the VR headset brings together 3D rendering and 3D interaction. The Leap Motion team boasts a highly responsive interface that instantly provides feedback on hand and finger motion, to a very high degree of accuracy. Almost every knuckle is tracked as a degree of freedom and a kind of guideline-skeleton is displayed in front of your eyes:</p>
-<p><a href="https://www.leapmotion.com/product/vr" target="_blank" rel="external"><img src="/img/skeletichands.gif" alt="from https://www.leapmotion.com/product/vr"></a></p>
-<p>It goes without saying, it was really cool trying that out! And whilst I normally try to be courteous to the ones around me, I found it very hard to switch back to that physical surrounding of mine which included a fairly lengthy queue of people, eager to give it a shot as well. After only one or two minutes spent with the Oculeap, I’m not sure if I was disappointed coming back to the real world, or just left wondering about all the possible applications that this device might have. Imagine brain surgery being performed remotely, if you hook this up to a robot arm. Or a 3D controller for semi-autonomous vehicles. Robotics aside, I’m pretty sure such a device could launch a whole new way of expressing oneself in the arts, or perhaps change the way visitors in a museum interact with exhibits on display. In education, simulation and training there are probably countless possibilities. In fact, as one of the demonstrators put it, “[opportunities] will only be limited by the developer’s imagination”.</p>
-<p><a href="https://www.leapmotion.com/product/vr" target="_blank" rel="external"><img src="/img/plasmaball.gif" alt="from https://www.leapmotion.com/product/vr"></a></p>
-<p>Such a device really makes you wonder, how do we actually feel about the digital world? What is digital stuff? We use this digital space to store a significant number of aspects from our life, in the form of digital text, picture, video or even 3D objects. Pretty soon we’ll be able to witness and experience a better way of interacting with all this content. And this type of interaction may be more appealing to our senses that are already great at absorbing the physical world around us. As physical beings we respond well to the idea that everything is made of a certain material. Could <em>digital</em> be one such material as well? Will we look at a digital media device and claim it’s made of plastic, glass as well as digital stuff? As the company’s CTO and cofounder mentioned, we may discover a “totally new foundational aspect of the world”.</p>
-<h3 id="Prediction_IO">Prediction IO</h3>
-<p>The team from Prediction IO started by voicing the motivation behind their product. Applying machine learning (ML) to solve any problem requires advanced mathematical skills and perhaps even a PhD (which  may further involve funding issues and a significant time commitment).</p>
-<p>It would be great if developers could use readily-available, open-source modules to fulfill the learning needs in their projects, without the prerequisite of being a machine learning specialist. They would just take an existing module, feed training data to it and then get prediction results. However, as one gentleman from the audience rightly noticed, although commodifying machine learning know-how is a very welcome endeavor, what do you do about parameter tuning?</p>
-<p>Let’s say you train a classifier and come up with a set of seemingly good model parameters that you are happy with, since they perform well on both a test and a validation set. What do you do when you discover your classifier performs badly on new examples? Furthermore, perhaps the training phase alone indicates unacceptable validation errors. Does your model have a high bias, or are you overfitting the data? Should you spend time on getting lots and lots more training data or should you save your budget and look elsewhere? Surely one may argue that being able to answer these kinds of questions is precisely why people get PhDs.</p>
-<p>It depends. I think some of these questions can be readily answered without being a machine learning expert. That is not to say any skilled coder who also did well in a machine learning class will solve all your product’s problems. Instead, the idea is that a small amount of understanding of ML concepts could go a long way in terms of improving algorithm performance and can help focus your resources on what truly has impact.</p>
-<p>With Prediction IO, the main focus may not necessarily be helping users tune their algorithms. But having some core building blocks readily available when you just want to get started is tremendously useful. And I certainly like the idea of an open source machine learning server backed by a wonderful community of developers and ML enthusiasts.</p>
-<hr>
-<p>Attending events like these is a really great way for SVIPers to check out what’s new and exciting in Silicon Valley, not to mention meeting like-minded people and learning from them. </p>
-<p>If you’re interested in Machine Learning, you’re in luck because there are some great online MOOCs that can get you started now. Andrew Ng’s Machine Learning class on Coursera.org (<a href="https://www.coursera.org/course/ml" target="_blank" rel="external">https://www.coursera.org/course/ml</a>) is definitely worth taking, and it’s free! Even if it won’t teach you how to derive the different algorithms (apart from hinting at it), it will show you how to use them in your projects and give you advice on applying the different concepts. </p>
-<p>Look forward to seeing your ideas at a Silicon Valley tech event soon!</p>
-<p>The SVIP Team </p>
-]]></content>
-    <summary type="html">
-    <![CDATA[<p>One of the great things about living in Silicon Valley is that there are so many exciting tech events right on your doopstep. From casual meetups, to events aimed at teaching you everything your start up needs to know and official product launches it’s actually possible to go to a different event every night of the week. We checked in with SVIPer Flavius Popescu to hear about some of the events he’s been to lately.</p>
-]]>
-    
-    </summary>
-    
-      <category term="san francisco, silicon valley, oculus, leap, machine learning, vr" scheme="http://blog.siliconvalleyinternship.com/tags/san-francisco-silicon-valley-oculus-leap-machine-learning-vr/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[SVIPer Blog : Enter The Bransion]]></title>
+    <title><![CDATA[Enter: The Bransion]]></title>
     <link href="http://blog.siliconvalleyinternship.com/2014/09/28/Guest-Blog-Enter-The-Bransion/"/>
     <id>http://blog.siliconvalleyinternship.com/2014/09/28/Guest-Blog-Enter-The-Bransion/</id>
     <published>2014-09-29T03:46:15.000Z</published>
-    <updated>2014-12-05T23:52:26.000Z</updated>
+    <updated>2014-12-05T18:26:52.000Z</updated>
     <content type="html"><![CDATA[<p>Today marks a month of living in San Francisco, the transition from nervously waiting in Heathrow Terminal 3 for the first of the other SVIP members to arrive, to sitting on my bed with a cold (intriguingly 50¢ a can) beer, looking out of my bedroom window that offers a spectacular view of eastern SF and the Bay. A lot of goings-on are framed in this one scene – the perpetually busy Bay Bridge, the looming towers of SoMa and Market, and the heavily Latin-influenced Mission District. It really puts home that this is a city with a lot about it, that if you were to more closely examine any part of what’s in view then you’d find something new. Many major cities have this potential I suppose, but it’s rare that you’re able to realise it so completely from such a macroscopic viewpoint. I liked my old house in Bristol, but my room overlooked a trainline.</p>
 <a id="more"></a>
 
@@ -111,39 +69,11 @@
   </entry>
   
   <entry>
-    <title><![CDATA[SVIP Official : SVIP Class of 2015 Arrives]]></title>
-    <link href="http://blog.siliconvalleyinternship.com/2014/09/23/SVIP-Class-of-2015-Arrives/"/>
-    <id>http://blog.siliconvalleyinternship.com/2014/09/23/SVIP-Class-of-2015-Arrives/</id>
-    <published>2014-09-23T17:46:15.000Z</published>
-    <updated>2014-12-05T23:56:00.000Z</updated>
-    <content type="html"><![CDATA[<p>After months of anticipation, the SVIP class of 2015 has landed in San Francisco. They’ve settled in at their new jobs, immersed themselves in city culture and if you ask any one of them, I am sure they will attest that they are quite literally, living the dream.</p>
-<a id="more"></a>
-
-<p>For those of you who are wondering how exactly to start a new life in the tech capital of the world, it’s not nearly as daunting as it seems. With visas and insurance in the bag before everyone arrived and an induction day full of glorious admin including setting up bank accounts and obtaining social security numbers, there has been plenty of time for the fun stuff.  </p>
-<p>On their second day stateside, we had our first ‘Meet an Entrepreneur’ session with Mark Dwight, the founder of Rickshaw Bagworks. Contrary to popular belief, real physical things are also made in San Francisco, not just software. After a tour of the micro-factory, the SVIPers jumped straight into asking Mark about some of the realities of entrepreneurship. Everyone was then let loose in Rickshaw’s customizable bag studio to design their own SVIP-branded bags to compliment the rest of the snazzy SVIP stash. The designs ranged from a classy navy with white trim to a garish mixture of check and camo-effect - but either way the SVIPers will now be hard to miss when gallivanting around San Francisco.</p>
-<p>Then it was back to SVIP HQ for a few welcome drinks. An essential part of any SVIPers American education is of course ‘Flipcup’ - a drinking game that is near identical to the British ‘Boatrace’, but adds in a fiendishly tricky step where you have to flip your cup upside down with one finger before your teammate can start theirs. As the night wore on, the SVIPers attitude to the local beverages predictably changed from “What is this stuff? This isn’t like they make it back home” to “Yeah, I’ll have another one of those if that’s all you’ve got” to “Hmm, this stuff isn’t half bad”. </p>
-<p>In fact, adjusting to American beer has been the least of the culture shocks that the SVIPs have experienced during their first few weeks in Silicon Valley. To quote SVIPer Olly Freeman <em>“During the first few days we were constantly amused by the fact that instead of billboards advertising some new perfume, a mobile phone tariff, or anything else mundanely generic like they do at home, in San Francisco almost all of the billboards are advertising some bizarrely specific tech solution. I’m pretty sure that the advert itself is only legible, let alone applicable for about 0.01% of the national population, but in San Francisco it’s completely normal because everything revolves around the tech industry”</em>. Others have reported offices where it’s ‘normal’ to spend the working day in your socks, discussions with the CEO held over a game of table-tennis, and weekly meetings that are kick-started with everyone telling their best joke. Welcome to the tech capital of the world. </p>
-<p>This year, we set the SVIPers up with accommodation at <em>StartupHouse</em> for their first month: a “shared-desk workspace for entrepreneurs” with sleeping space on the upper floors. Basically, it’s a hacker house with a capacity of about 50, which has provided the SVIPers the opportunity to get to know each other and meet loads of current and aspiring entrepreneurs while they find their feet in Silicon Valley, not to mention the chance to attend some really cool events, including one hosted by the CEO of the Unity, the famous gaming engine. That certainly got a few pulses racing (typical nerds, eh?)!</p>
-<p>If this all sounds too good to be true, here’s a few parting words of wisdom from SVIP’s founder Michael Hughes: <em>“From the outside, Silicon Valley looks a little like how Hogwarts must look to the average Muggle - technological wizardry with lots of lights and colors that magically yields gold. In some ways, the dirty little secret is that there is a little more ‘throwing spaghetti against a wall and seeing what sticks’ than deep strategic insight than many of us like to admit. The true wizardry here is the business ecosystem and supporting culture that encourages many, many people to try new ideas, fail, learn and try again and again so companies are born and die quickly yielding a broiling entrepreneurial innovation soup of natural selection that occasionally spits out a spectacular winner. This is the lesson we are trying to get across to the SVIPs - start with something you care about, jump in, move fast, innovate, keep trying - don’t worry too much about failing - it is too easy to sit on the sidelines waiting for the ‘perfect’ idea - come on in, the soup’s lovely!”</em></p>
-<p>And that’s about it from the SVIP blog for this week. Next week we will feature a guest blog by new SVIPer Jamie Henson, who is promising to give the inside scoop on his first month Stateside, so be sure to tune in.</p>
-<p>And finally, if the idea of moving to Silicon Valley to learn its magical ways is something that you are interested in, remember that applications for the SVIP Class of 2016 will open later this year. Be the first to know by liking Silicon Valley Internship Program on Facebook and following us on twitter @SVIPUK.</p>
-]]></content>
-    <summary type="html">
-    <![CDATA[<p>After months of anticipation, the SVIP class of 2015 has landed in San Francisco. They’ve settled in at their new jobs, immersed themselves in city culture and if you ask any one of them, I am sure they will attest that they are quite literally, living the dream.</p>
-]]>
-    
-    </summary>
-    
-      <category term="moving, San Francisco, new house, SVIP" scheme="http://blog.siliconvalleyinternship.com/tags/moving-San-Francisco-new-house-SVIP/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[SVIPer Blog : SVIP 2014 Postmortem]]></title>
+    <title><![CDATA[SVIP 2014 Postmortem]]></title>
     <link href="http://blog.siliconvalleyinternship.com/2014/09/15/Guest-blog-SVIP-2014-postmortem/"/>
     <id>http://blog.siliconvalleyinternship.com/2014/09/15/Guest-blog-SVIP-2014-postmortem/</id>
     <published>2014-09-16T03:18:24.000Z</published>
-    <updated>2014-12-06T00:31:07.000Z</updated>
+    <updated>2014-12-05T18:26:52.000Z</updated>
     <content type="html"><![CDATA[<p>Well it’s been a whole year. A whole year and I can hardly believe it. Still time waits for no man and myself and the rest of the SVIP Class of 2014 are soon to move on to greener pastures, exciting new projects and adventures.</p>
 <a id="more"></a>
 
@@ -178,11 +108,11 @@
   </entry>
   
   <entry>
-    <title><![CDATA[SVIPer Blog : Land of the free]]></title>
+    <title><![CDATA[Land of the free]]></title>
     <link href="http://blog.siliconvalleyinternship.com/2014/09/05/Guest-Blog-Land-of-the-free/"/>
     <id>http://blog.siliconvalleyinternship.com/2014/09/05/Guest-Blog-Land-of-the-free/</id>
     <published>2014-09-06T04:32:03.000Z</published>
-    <updated>2014-12-06T00:29:47.000Z</updated>
+    <updated>2014-12-05T18:26:52.000Z</updated>
     <content type="html"><![CDATA[<p>Well, I’m finally here! Five months ago, I received a piece of news that rendered me both speechless and giddily excited. And then just one week ago, I was very, very tired having just got off an 11 hour flight, but no less enthused. For the past week, San Francisco has been my home, and will be for the next 55 – give or take.</p>
 <a id="more"></a>
 
@@ -206,11 +136,11 @@
   </entry>
   
   <entry>
-    <title><![CDATA[SVIPer Blog : First SVIP hackathon]]></title>
+    <title><![CDATA[First SVIP hackathon]]></title>
     <link href="http://blog.siliconvalleyinternship.com/2014/07/14/Guest-blog-First-SVIP-hackathon/"/>
     <id>http://blog.siliconvalleyinternship.com/2014/07/14/Guest-blog-First-SVIP-hackathon/</id>
     <published>2014-07-14T20:08:23.000Z</published>
-    <updated>2014-12-06T00:29:36.000Z</updated>
+    <updated>2014-12-05T18:26:52.000Z</updated>
     <content type="html"><![CDATA[<p>Last weekend we held our very first SVIP hackathon. It was a surprisingly unrushed and pleasant affair much different to what I’d experienced before during game jams. Personally I think that it was the familiarity and homeliness of the LoopUp offices that did it. Stewart, Paul, Naomi, Ben, Mario, Michael, Chris A, Chris H all attended to work on their ideas.</p>
 <a id="more"></a>
 
@@ -242,11 +172,11 @@
   </entry>
   
   <entry>
-    <title><![CDATA[SVIPer Blog : Mr Right-idea]]></title>
+    <title><![CDATA[Mr Right-idea]]></title>
     <link href="http://blog.siliconvalleyinternship.com/2014/04/21/Guest-Blog-Mr-right-idea/"/>
     <id>http://blog.siliconvalleyinternship.com/2014/04/21/Guest-Blog-Mr-right-idea/</id>
     <published>2014-04-21T20:08:36.000Z</published>
-    <updated>2014-12-06T00:31:03.000Z</updated>
+    <updated>2014-12-05T18:26:52.000Z</updated>
     <content type="html"><![CDATA[<p>In the six months I have lived in San Francisco I have encountered a concentration of passionate people beyond anything I could have anticipated. The sheer number of start-ups that the city, and surrounding Bay Area, fosters can be attributed to a great number of factors and there are innumerable articles which try to address these. But it is this passion exhibited by the world renowned “founder” stereotype which has me fixated.</p>
 <a id="more"></a>
 
@@ -274,11 +204,11 @@
   </entry>
   
   <entry>
-    <title><![CDATA[SVIPer Blog : I, Car]]></title>
+    <title><![CDATA[I, Car]]></title>
     <link href="http://blog.siliconvalleyinternship.com/2014/03/07/Guest-Blog-I-Car/"/>
     <id>http://blog.siliconvalleyinternship.com/2014/03/07/Guest-Blog-I-Car/</id>
     <published>2014-03-07T21:08:45.000Z</published>
-    <updated>2014-12-06T00:29:41.000Z</updated>
+    <updated>2014-12-05T18:26:52.000Z</updated>
     <content type="html"><![CDATA[<p>The topic that’s got me – and it seems a great deal of others – hot under the collar lately is that of the ‘self driving’ car. As Google and others further the technology necessary for a world free from steering wheels, one can’t help but wonder just what that world will be like. Many have dabbled in this topic but I hope to raise some points here I’ve not myself heard.</p>
 <a id="more"></a>
 
@@ -310,11 +240,11 @@
   </entry>
   
   <entry>
-    <title><![CDATA[SVIPer Blog : LAUNCH Hack Hack Hack]]></title>
+    <title><![CDATA[LAUNCH Hack Hack Hack]]></title>
     <link href="http://blog.siliconvalleyinternship.com/2014/03/01/Guest-Blog-LAUNCH-Hack-Hack-Hack/"/>
     <id>http://blog.siliconvalleyinternship.com/2014/03/01/Guest-Blog-LAUNCH-Hack-Hack-Hack/</id>
     <published>2014-03-01T21:08:54.000Z</published>
-    <updated>2014-12-06T00:30:54.000Z</updated>
+    <updated>2014-12-05T18:26:52.000Z</updated>
     <content type="html"><![CDATA[<p>This weekend I attended the <a href="http://hackathon.launch.co/" target="_blank" rel="external">Launch Hackathon</a>, right here in San Francisco. The event was billed as the largest of its type, with over 1000 hand-selected designers and developers competing for some great prizes, including a grand prize of $1.6k worth of investments and prize money. The event was MC’d by <a href="http://twitter.com/jason" target="_blank" rel="external">@Jason</a> (Jason Calacanis of Weblogs Inc., Mahalo, and more recently <a href="http://thisweekin.com/" target="_blank" rel="external">TWiST</a>), who did a splendid job of <a href="https://twitter.com/Jason/status/399365305706618880" target="_blank" rel="external">keeping things rolling</a>.</p>
 <a id="more"></a>
 
@@ -346,11 +276,11 @@
   </entry>
   
   <entry>
-    <title><![CDATA[SVIPer Blog : Failcon]]></title>
+    <title><![CDATA[Failcon]]></title>
     <link href="http://blog.siliconvalleyinternship.com/2013/11/15/Guest-Blog-Failcon/"/>
     <id>http://blog.siliconvalleyinternship.com/2013/11/15/Guest-Blog-Failcon/</id>
     <published>2013-11-15T21:09:04.000Z</published>
-    <updated>2014-12-05T23:56:14.000Z</updated>
+    <updated>2014-12-05T18:26:52.000Z</updated>
     <content type="html"><![CDATA[<p>This Monday I went to my first conference. It was FailCon which is a conference where people from tech stand up in front of a room and talk about their failures. The idea stems from a core value in the valley, which is that failure is OK. Many people attribute the bay area’s success to this philosophy, as people are given a second chance, learn from their mistakes and are more likely to succeed in further endeavours.</p>
 <a id="more"></a>
 
@@ -382,11 +312,11 @@
   </entry>
   
   <entry>
-    <title><![CDATA[SVIP Official : Life Outside the Start-Up]]></title>
+    <title><![CDATA[Life Outside the Start-Up]]></title>
     <link href="http://blog.siliconvalleyinternship.com/2013/10/14/Life-Outside-the-Start-Up/"/>
     <id>http://blog.siliconvalleyinternship.com/2013/10/14/Life-Outside-the-Start-Up/</id>
     <published>2013-10-14T20:09:16.000Z</published>
-    <updated>2014-12-06T00:32:19.000Z</updated>
+    <updated>2014-12-05T18:26:52.000Z</updated>
     <content type="html"><![CDATA[<p>The SVIP is about much more than just day to day life working for a start-up. In fact, those who get the most out of the SVIP will be the one’s who take up all the other opportunities right there on their doorstep in Silicon Valley. Every day of the week there are breakfast meet ups where people get together to bounce around ideas, networking events hosted by yet another exciting new company with the chance to get to know who’s who. And we haven’t even mentioned the conferences yet. Doesn’t sound too interesting, a bit stuffy even? Wrong. You could learn almost anything you ever wanted to at one of the hundreds of conferences happening around the Bay Area, this is how people stay on top in a rapidly developing environment. And you almost always get a free goodie bag.</p>
 <a id="more"></a>
 
@@ -406,11 +336,11 @@
   </entry>
   
   <entry>
-    <title><![CDATA[SVIPer Blog : SVIP Class of 2014 lands in San Francisco]]></title>
+    <title><![CDATA[SVIP Class of 2014 lands in San Francisco]]></title>
     <link href="http://blog.siliconvalleyinternship.com/2013/09/01/Guest-Blog-SVIP-Class-of-2014-lands-in-San-Francisco/"/>
     <id>http://blog.siliconvalleyinternship.com/2013/09/01/Guest-Blog-SVIP-Class-of-2014-lands-in-San-Francisco/</id>
     <published>2013-09-01T20:09:29.000Z</published>
-    <updated>2014-12-06T00:31:12.000Z</updated>
+    <updated>2014-12-05T18:26:52.000Z</updated>
     <content type="html"><![CDATA[<p>It’s been a long time coming for this year’s successful SVIP applicants. Spring and Summer were spent in interviews, match making with the startups, getting accepted (!), putting together visa paperwork, fedexing forms and queueing for the visa interviews. A process that was most aptly documented by Chris Atkin-Granville on his blog where he discusses <a href="http://california.chrisatk.in/blog/post/choosing-between-offers.html" target="_blank" rel="external">choosing offers</a> and the <a href="http://california.chrisatk.in/blog/post/visa-interviews.html" target="_blank" rel="external">visa interview</a>.</p>
 <a id="more"></a>
 
@@ -435,11 +365,11 @@
   </entry>
   
   <entry>
-    <title><![CDATA[SVIPer Blog : What Is The Key To Startup Success in the UK?]]></title>
+    <title><![CDATA[What Is The Key To Startup Success in the UK?]]></title>
     <link href="http://blog.siliconvalleyinternship.com/2013/08/22/Guest-Blog-What-Is-The-Key-To-Startup-Success-in-the-UK/"/>
     <id>http://blog.siliconvalleyinternship.com/2013/08/22/Guest-Blog-What-Is-The-Key-To-Startup-Success-in-the-UK/</id>
     <published>2013-08-22T20:09:37.000Z</published>
-    <updated>2014-12-06T00:31:18.000Z</updated>
+    <updated>2014-12-05T18:26:52.000Z</updated>
     <content type="html"><![CDATA[<p>With my graduation ceremony marking the end of one journey tomorrow, a new journey awaits me when I move to San Francisco this September. I feel very fortunate to be part of the inaugural class of the Silicon Valley Internship Programme. You can watch my 1-minute video intro <a href="http://www.youtube.com/watch?v=O35tgpQD8bg" target="_blank" rel="external">here</a>.</p>
 <p>I began preparing for the journey ahead of me by attending the <a href="http://www.pubsummit.com/" target="_blank" rel="external">Pubsummit</a> event on July 8th, hosted by <a href="http://gigaom.com/2013/07/02/come-hang-out-with-gigaom-in-london-next-week/" target="_blank" rel="external">GigaOM</a>; I wasn’t sure what to expect, as this was the first networking event I have attended in a bar! It was a warm and sunny evening in the city so I was relieved to find upon arrival that the venue was shaded. Courtesy of the kind folks at <a href="https://twitter.com/geckoboard" target="_blank" rel="external">Gecoboard</a>, I was immediately given two free drinks vouchers. There was a welcoming buzz of conversation in the air and I couldn’t wait to get involved.</p>
 <a id="more"></a>
@@ -493,11 +423,11 @@
   </entry>
   
   <entry>
-    <title><![CDATA[SVIP Official : Welcome Blog]]></title>
+    <title><![CDATA[Welcome Blog]]></title>
     <link href="http://blog.siliconvalleyinternship.com/2013/08/14/Welcome-Blog/"/>
     <id>http://blog.siliconvalleyinternship.com/2013/08/14/Welcome-Blog/</id>
     <published>2013-08-14T20:07:07.000Z</published>
-    <updated>2014-12-06T00:33:57.000Z</updated>
+    <updated>2014-12-05T18:26:52.000Z</updated>
     <content type="html"><![CDATA[<blockquote>
 <p>“Propose to an Englishman any principle, or any instrument, however admirable, and you will observe that the whole effort of the English mind is directed to find a difficulty, a defect, or an impossibility in it. If you speak to him of a machine for peeling a potato, he will pronounce it impossible: if you peel a potato with it before his eyes, he will declare it useless, because it will not slice a pineapple. Impart the same principle or show the same machine to an American or to one of our Colonists, and you will observe that the whole effort of his mind is to find some new application of the principle, some new use for the instrument.” – Charles Babbage</p>
 </blockquote>
