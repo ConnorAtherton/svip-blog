@@ -1,7 +1,7 @@
-title: "Guest Blog: Failcon"
-date: 2014-11-29 13:09:04
+title: "Failcon"
+date: 2013-11-15 13:09:04
 tags: conference, first, failcon, failures, startups, learning
-author: Lee Woodridge
+author: Lee Woodridge (SVIP 2014)
 layout: post
 ---
 

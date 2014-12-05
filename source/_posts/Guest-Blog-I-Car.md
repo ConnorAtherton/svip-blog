@@ -1,7 +1,7 @@
-title: "Guest Blog: I, Car"
-date: 2014-11-29 13:08:45
+title: "I, Car"
+date: 2014-03-07 13:08:45
 tags: google, svip, self-driving car, automation, innovation
-author: Matt Bessey
+author: Matt Bessey (SVIP 2014)
 layout: post
 ---
 

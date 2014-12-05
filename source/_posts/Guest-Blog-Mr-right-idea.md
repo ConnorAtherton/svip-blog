@@ -1,7 +1,7 @@
-title: "Guest Blog: Mr Right-idea"
-date: 2014-11-29 13:08:36
+title: "Mr Right-idea"
+date: 2014-04-21 13:08:36
 tags: founder, svip, right idea, stereotype, risks
-author: Barney Jackson
+author: Barney Jackson (SVIP 2014)
 layout: post
 ---
 

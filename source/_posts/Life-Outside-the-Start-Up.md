@@ -1,5 +1,5 @@
 title: Life Outside the Start-Up
-date: 2014-11-29 13:09:16
+date: 2013-10-14 13:09:16
 tags:
 author: SVIP
 layout: post

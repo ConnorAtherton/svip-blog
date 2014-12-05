@@ -1,7 +1,7 @@
-title: "Guest Blog: What Is The Key To Startup Success in the UK?"
-date: 2014-11-29 13:09:37
+title: "What Is The Key To Startup Success in the UK?"
+date: 2013-08-22 13:09:37
 tags: startup, key, success, guest, UK
-author: Paul Wozniak
+author: Paul Wozniak (SVIP 2014)
 layout: post
 ---
 
