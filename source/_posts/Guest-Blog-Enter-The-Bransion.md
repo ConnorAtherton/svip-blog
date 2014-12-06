@@ -1,4 +1,4 @@
-title: "Enter: The Bransion"
+﻿title: "SVIPer Blog : Enter The Bransion"
 date: 2014-09-28 20:46:15
 tags: moving, San Francisco, new house, SVIP
 author: Jamie Henson (SVIP 2015)

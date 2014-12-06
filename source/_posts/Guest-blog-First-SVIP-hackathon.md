@@ -1,4 +1,4 @@
-title: "First SVIP hackathon"
+﻿title: "SVIPer Blog : First SVIP hackathon"
 date: 2014-07-14 13:08:23
 tags: first, hackathon, matrix, svip, 2013
 author: Marat Subkankulov (SVIP 2014)

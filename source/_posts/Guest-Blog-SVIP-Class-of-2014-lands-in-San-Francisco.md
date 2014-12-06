@@ -1,4 +1,4 @@
-title: "SVIP Class of 2014 lands in San Francisco"
+﻿title: "SVIPer Blog : SVIP Class of 2014 lands in San Francisco"
 date: 2013-09-01 13:09:29
 tags: svip, class, 2013, new, flights, san francisco, internship
 author: Marat Subkhankulov (SVIP 2014)

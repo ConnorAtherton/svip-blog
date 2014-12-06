@@ -1,4 +1,4 @@
-title: "Three months in SF... but there's always room for Bristol"
+﻿title: "SVIPer Blog : Three months in SF... but there's always room for Bristol"
 date: 2014-11-27 20:46:42
 author: Jamie Henson (SVIP 2015)
 tags: abroad, America, Bristol, move, SVIP, UK

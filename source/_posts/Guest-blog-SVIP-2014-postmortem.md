@@ -1,4 +1,4 @@
-title: SVIP 2014 Postmortem
+﻿title: "SVIPer Blog : SVIP 2014 Postmortem"
 date: 2014-09-15 20:18:24
 tags: postmortem, SVIP, end of an era, 2013, 2014
 author: Marat Subkhankulov (SVIP 2014)

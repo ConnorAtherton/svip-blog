@@ -1,7 +1,7 @@
-title: "LAUNCH Hack Hack Hack"
+﻿title: "SVIPer Blog : LAUNCH Hack Hack Hack"
 date: 2014-02-29 13:08:54
 tags: launch, hackathon, innovation
-author: Guest (SVIP 2014)
+author: Fred Kelly (SVIP 2014)
 layout: post
 ---
 

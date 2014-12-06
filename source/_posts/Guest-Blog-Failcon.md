@@ -1,4 +1,4 @@
-title: "Failcon"
+﻿title: "SVIPer Blog : Failcon"
 date: 2013-11-15 13:09:04
 tags: conference, first, failcon, failures, startups, learning
 author: Lee Woodridge (SVIP 2014)

@@ -1,4 +1,4 @@
-title: "Land of the free"
+﻿title: "SVIPer Blog : Land of the free"
 date: 2014-09-05 21:32:03
 tags: San Francisco, SVIP, moving, travel, abroad
 author: Jamie Henson (SVIP 2015)
