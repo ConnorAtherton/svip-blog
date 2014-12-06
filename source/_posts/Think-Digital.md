@@ -1,7 +1,7 @@
-title: "Think Digital"
+﻿title: "SVIPer Blog : Think Digital"
 date: 2014-10-10 14:45:00
 tags: san francisco, silicon valley, oculus, leap, machine learning, vr
-author: Flavius Popescu
+author: Flavius Popescu (SVIP 2015)
 layout: post
 ---
 
