@@ -19,9 +19,7 @@ localhost:4343
 
 ### Sorting out the theme
 ```
-cd themes
-git clone git@github.com:ConnorAtherton/svip-light-theme.git
-mv svip-light-theme svip-light/ (it needs to be svip-light in order to be recognised)
+git submodule init && git submodule update
 ```
 
 
