@@ -9,8 +9,6 @@ Today marks a month of living in San Francisco, the transition from nervously wa
 
 <!-- more -->
 
-![The big view](/img/bransion.jpg)
-
 Some things I’ve learned this month: Google deliver groceries, people aren’t lying when they say that Comcast are rubbish, Venmo is the future, it is indeed possible to get English tea easily, and that one should be very wary of Folsom Street on one particular weekend in September. Only one of the above discoveries involves four blocks of leather-clad men whipping each other and enthusiastically sampling each other’s fleshy parts. A further hint, it’s not part of Google’s delivery service.
 
 Last weekend we left the StartupHouse, a “hacker house” (in reality an industrial complex converted into a ~50-person communal living space) in the heart of SoMa. On a temporary basis, the place was fine – the lack of any private space or room for personal possessions wore thin after a time but long-term living was never its intended function. The tradeoff to compromised living standards (most notably, the orchestra of nightly snoring) was the advantage that communal living provides – an ever-shifting set of relatively like minded people from all over the world. I even saw a talk there by the CEO of Unity, which was both unexpected, and seriously cool.
