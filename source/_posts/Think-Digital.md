@@ -5,7 +5,7 @@ author: Flavius Popescu (SVIP 2015)
 layout: post
 ---
 
-One of the great things about living in Silicon Valley is that there are so many exciting tech events right on your doopstep. From casual meetups, to events aimed at teaching you everything your start up needs to know and official product launches it’s actually possible to go to a different event every night of the week. We checked in with SVIPer Flavius Popescu to hear about some of the events he’s been to lately.
+One of the great things about living in Silicon Valley is that there are so many exciting tech events right on your doorstep. From casual meetups, to events aimed at teaching you everything your start up needs to know and official product launches it’s actually possible to go to a different event every night of the week. We checked in with SVIPer Flavius Popescu to hear about some of the events he’s been to lately.
 
 <!-- more -->
 
